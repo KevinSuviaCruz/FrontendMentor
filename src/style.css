@@ -1,0 +1,6 @@
+.cursor:hover {
+  background-color: hsl(128, 100%, 66%);
+}
+.cursor {
+  cursor: pointer;
+}
